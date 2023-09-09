@@ -60,7 +60,8 @@ This case factory currently uses manual scheduling to perform operations, and mo
 
 - Use genetic algorithms to solve welding scheduling problems
 - 🎲It is an advanced adaptation based on the coding method learned in the genetic algorithm course. [Genetic Algorithm and Applications in Management Science](https://timetable.nycu.edu.tw/?r=main/crsoutline&Acy=111&Sem=2&CrsNo=517408&lang=zh-tw).So it is not original!
-    
+- refrences: [GA07-permutCoding.pdf](https://github.com/Linszuchi047/Discussion-on-Lathe-and-Welding-Scheduling-in-Factory/files/12565194/GA07-permutCoding.pdf)
+
     
 - **Initial chromosomes**
     
