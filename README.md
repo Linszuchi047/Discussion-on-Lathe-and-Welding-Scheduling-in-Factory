@@ -85,7 +85,7 @@ This case factory currently uses manual scheduling to perform operations, and mo
     
 - **Experimental Design**
     
-    When the number of days in advance is set in different days in advance, what is the minimum delay time, and the minimum delay is just no delay
+    Different days we start the process beforehand, we will get different minimum delay time, our purpose is to  find the minimum days in advance to let the delay time become zero.
     
 
 📏We also try to Build Flexsim model to help us in verification and simulation the project.
