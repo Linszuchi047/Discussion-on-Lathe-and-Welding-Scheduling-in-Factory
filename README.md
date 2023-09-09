@@ -49,14 +49,14 @@ This case factory currently uses manual scheduling to perform operations, and mo
 
 - Order data sorting Use python to read the original data and organize the raw data into a specific format.(**The following are assumptions)**
 
-| serial | Type | amount | category | Machine  | Process Time |
-| --- | --- | --- | --- | --- | --- |
-| 1 | Aluminum frame-front | 265 | 4 | 1 | 12 |
-| 2 | Aluminum frame-back | 265 | 5 | 1 | 12 |
-| 3 | iron frame-front | 100 | 1 | 1 | 12 |
-| 4 | iron frame-back | 100 | 2 | 1 | 12 |
-| 5 | iron frame-front | 524 | 1 | 1 | 12 |
-| 6 | iron frame-back | 524 | 2 | 1 | 12 |
+| serial | Type | amount | category | Machine  | Process Time | Deadline |
+| --- | --- | --- | --- | --- | --- | --- |
+| 1 | Aluminum frame-front | 265 | 4 | 1 | 12 |2022/11/15|
+| 2 | Aluminum frame-back | 265 | 5 | 1 | 12 |2022/11/15|
+| 3 | iron frame-front | 100 | 1 | 1 | 12 |2022/12/10|
+| 4 | iron frame-back | 100 | 2 | 1 | 12 |2022/12/10|
+| 5 | iron frame-front | 524 | 1 | 1 | 12 |2022/12/15|
+| 6 | iron frame-back | 524 | 2 | 1 | 12 |2022/12/15|
 
 - Use genetic algorithms to solve welding scheduling problems
 - 🎲It is an advanced adaptation based on the coding method learned in the genetic algorithm course. [Genetic Algorithm and Applications in Management Science](https://timetable.nycu.edu.tw/?r=main/crsoutline&Acy=111&Sem=2&CrsNo=517408&lang=zh-tw).So it is not original!
