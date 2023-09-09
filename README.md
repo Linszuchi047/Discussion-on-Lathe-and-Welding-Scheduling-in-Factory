@@ -90,4 +90,5 @@ This case factory currently uses manual scheduling to perform operations, and mo
 
 (The educational version is intended for study and research use!)
 
-![Untitled](Discussion%20on%20Welding%20Scheduling%20in%20Factory%20dd20a431d4504571bf24f65e6f335927/Untitled.png)
+<img width="369" alt="flesxim" src="https://github.com/Linszuchi047/Discussion-on-Lathe-and-Welding-Scheduling-in-Factory/assets/140520487/cfde03ff-abea-456b-a377-a05f9e6a4de3">
+
