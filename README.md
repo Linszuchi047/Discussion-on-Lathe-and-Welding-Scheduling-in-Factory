@@ -59,6 +59,7 @@ This case factory currently uses manual scheduling to perform operations, and mo
 | 6 | iron frame-back | 524 | 2 | 1 | 12 |
 
 - Use genetic algorithms to solve welding scheduling problems
+- 🎲It is an advanced adaptation based on the coding method learned in the genetic algorithm course. [Genetic Algorithm and Applications in Management Science](https://timetable.nycu.edu.tw/?r=main/crsoutline&Acy=111&Sem=2&CrsNo=517408&lang=zh-tw).So it is not original!
     
     
 - **Initial chromosomes**
