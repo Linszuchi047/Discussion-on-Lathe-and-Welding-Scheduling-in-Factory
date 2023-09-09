@@ -90,7 +90,7 @@ This case factory currently uses manual scheduling to perform operations, and mo
 
 📏We also try to Build Flexsim model to help us in verification and simulation the project.
 
-(The educational version is intended for study and research use!)
+⚠️The educational version is intended for study and research use!
 
 <img width="369" alt="flesxim" src="https://github.com/Linszuchi047/Discussion-on-Lathe-and-Welding-Scheduling-in-Factory/assets/140520487/cfde03ff-abea-456b-a377-a05f9e6a4de3">
 
